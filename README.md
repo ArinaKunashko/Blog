@@ -1,3 +1,13 @@
+## Technology stack
+The application is written in Nuxt + Vuetify + Firebase (Backend);
+The Project written with Option API;
+Described components using hooks;
+For styles used Vuetify;
+## Functionality
+For unregistered users, there is the ability to view the blog and posts.
+Upon registration, you gain the ability to create, edit, and delete posts.
+
+
 # nuxt-app
 
 ## Build Setup
